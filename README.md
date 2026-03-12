@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! Welcome to my GitHub profile.<br>I’m a passionate developer who loves building clean, efficient, and scalable software. Here you’ll find my projects, experiments, and contributions across various technologies. Feel free to explore, collaborate, and connect!
+👋 Hi there! Welcome to my GitHub profile.<br>I’m a passionate developer who loves building clean, efficient, and scalable software. Here you’ll find my projects, experiments, and contributions across various technologies. Feel free to explore, collaborate, and connect! VISIT MY PORTFOLIO HERE: https://leuansantos.vercel.app/
 
 
 ## 🌐 Socials:
